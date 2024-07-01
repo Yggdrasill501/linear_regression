@@ -1,0 +1,8 @@
+matplotlib
+numpy
+pandas
+sklearn
+seaborn
+statsmodels
+scipy
+statsmodels==0.14.2
